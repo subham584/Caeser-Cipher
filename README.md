@@ -1,1 +1,2 @@
 # Caeser-Cipher
+Caeser-Cipher is a web-based application that encrypts and decrypts text using the Caesar cipher algorithm. It allows users to input text, set a custom shift key (1-25) and instantly see the transformed output. The tool preserves non-alphabetic characters and includes input validation, error handling, and a reset function for a smooth user experience.
